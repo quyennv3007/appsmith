@@ -18,7 +18,7 @@
         {"key": "borderRadius"},
         {"key": "boxShadow"}
     ],
-    "leftColumn": 28,
+    "leftColumn": 34,
     "enhancements": true,
     "children": [{
         "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
@@ -114,7 +114,7 @@
     "key": "ck94lbd98p",
     "backgroundColor": "transparent",
     "isDeprecated": false,
-    "rightColumn": 52,
+    "rightColumn": 58,
     "widgetId": "qzf36ufkf6",
     "minWidth": 450,
     "parentId": "0",

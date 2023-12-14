@@ -14,7 +14,7 @@
         {"key": "boxShadow"}
     ],
     "needsHeightForContent": true,
-    "leftColumn": 9,
+    "leftColumn": 34,
     "delimiter": ",",
     "defaultSelectedRowIndex": 0,
     "flexVerticalAlignment": "start",
@@ -72,7 +72,7 @@
     "key": "pnjp8531hv",
     "canFreezeColumn": true,
     "isDeprecated": false,
-    "rightColumn": 41,
+    "rightColumn": 64,
     "textSize": "0.875rem",
     "widgetId": "lj2vftfpkn",
     "minWidth": 450,
